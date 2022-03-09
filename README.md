@@ -30,8 +30,8 @@
 
   
   🛠️Server Programming🛠️<br>
-  <img src="https://img.shields.io/badge/JSP/Servlet-43a047?style=flat-square&logo=Java&logoColor=white"/> <br><br>
-  
+  <img src="https://img.shields.io/badge/JSP/Servlet-43a047?style=flat-square&logo=Java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/AJAX-2196f3?style=flat-square&logo=AJAX&logoColor=white"/><br><br>
   
   🛠️Framework🛠️<br>
   <img src="https://img.shields.io/badge/Spring-6AAD3D?style=flat-square&logo=Spring&logoColor=white"/>
