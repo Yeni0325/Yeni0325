@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <h3>👻WELCOME TO YEEUN'S FASTLANE🛣️</h3>
+  <h1>👻WELCOME TO YEEUN'S FASTLANE🛣️</h1>
 
 
   🛠Language🛠️ <br>
