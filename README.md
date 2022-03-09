@@ -30,7 +30,7 @@
   
   🛠️Framework🛠️ <br>
   <img src="https://img.shields.io/badge/Spring-6AAD3D?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MyBatist-43a047?style=flat-square&logo=MyBatis&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/MyBatis-43a047?style=flat-square&logo=MyBatis&logoColor=white"/>  
 
   
 
