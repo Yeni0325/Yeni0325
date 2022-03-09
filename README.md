@@ -8,6 +8,3 @@
 <img src="https://img.shields.io/badge/JavaScript-F0D933?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 
-
-
-F0D933
