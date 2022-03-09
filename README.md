@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=👻WELCOME%20TO%20YEEUN'S%20FASTLANE🛣️&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=👻WELCOME%20TO%20YEEUN'S%20FASTLANE🛣️&fontSize=40)
 
 
 
